@@ -4,5 +4,13 @@ def Print1():
 	print "Hello World1\n";
 
 
-Print1();
+def PrintMaster():
+	Print1();
+	Print2();
+	Print3();
+
+PrintMaster();
+
+
+
 
