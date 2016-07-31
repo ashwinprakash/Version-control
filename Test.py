@@ -10,6 +10,7 @@ def Print2():
 
 def Print3():
 	print "Hello World3";
+	print "Bye Bye!";
 
 def PrintMaster():
 	Print1();
